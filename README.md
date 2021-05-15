@@ -1,10 +1,56 @@
-# Rescue (Women-Fight-Back!)
-One Stop Solution : A Panic Receptive Website for Women Security and Outreach.
+# Rescue : Women-Fight-Back! 🙍
+<br>
+<p align="center">
+  <a href="https://github.com/swapnilsparsh/Rescue">
+    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" >
+  </a>
+
+  <h1 align="center"><b>(Women Safety Website)</b></h1>
+
+  <p align="center">
+    <i><b> One Stop Solution : A Panic Receptive Website for Women Security and Outreach.</b></i> 
+    <br />
+  </p>
+</p>
+<br>
 
 
-In the Command Terminal enter:  python manage.py runserver
+## 👋🏻 Walkthrough
 
-In the terminal a link appears "press Ctrl and the link in the terminal"
-
-The website will get open at local host runserver.
+1. Install django and Requests
  
+```sh
+pip install -r requirements.txt
+```
+
+2. Fill the details in
+  
+```
+main_app/mail.py
+mysite/settings.py
+```
+
+3. Run the website by following command in the terminal
+
+```sh
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+```
+ 
+## ⚙Tech-Tools
+<b> Frontend :</b>
+
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img src="https://img.shields.io/badge/bootstrap%20-%234f0599.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<b> Backend :</b>
+
+  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+<br>
+  
+  
+<div class="footer">
+  <p align="center"><b>(Remember to 🌟 this repository)</b> </p>
+</div>
