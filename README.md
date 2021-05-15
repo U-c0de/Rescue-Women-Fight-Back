@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/swapnilsparsh/Rescue">
-    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" >
+    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" width="900" height="470" >
   </a>
 
   <h1 align="center"><b>(Women Safety Website)</b></h1>
