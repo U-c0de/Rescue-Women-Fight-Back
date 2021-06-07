@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/U-c0de/Rescue">
-    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" width="900" height="470" >
+    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" width="850" height="420" >
   </a>
 
   <h1 align="center"><b>(Women Safety Website)</b></h1>
@@ -13,6 +13,14 @@
   </p>
 </p>
 <br>
+
+## 📸 Screenshots
+<br>
+<div class="row">
+    <img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/13.jpg" alt="13"  width="320" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/11.jpg" alt="11"  width="310" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/12.jpg" alt="12"  width="310" height="180">
+    </div>
+<br>
+
 
 
 ## 👋🏻 Walkthrough
@@ -38,8 +46,11 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
- 
+
+<br>
+
 ## ⚙Tech-Tools
+
 <b> Frontend :</b>
 
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img src="https://img.shields.io/badge/bootstrap%20-%234f0599.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
