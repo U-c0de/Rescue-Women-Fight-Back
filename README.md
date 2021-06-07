@@ -17,7 +17,7 @@
 ## 📸 Screenshots
 <br>
 <div class="row">
-    <img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/13.jpg" alt="13"  width="280" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/11.jpg" alt="11"  width="270" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/12.jpg" alt="12"  width="270" height="180">
+    <img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/13.jpg" alt="13"  width="280" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/11.jpg" alt="11"  width="280" height="180">&ensp;<img src="https://github.com/U-c0de/Rescue-Women-Fight-Back/blob/main/main_app/ss/12.jpg" alt="12"  width="280" height="180">
     </div>
 <br>
 
